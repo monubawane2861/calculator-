@@ -1,0 +1,44 @@
+
+.main-cont{
+
+border: 1px solid black;
+
+width: 200px;
+
+border-radius: 5px;
+background-color: rgb(97, 96, 96);
+} 
+
+#display{
+
+  margin: 10px;
+  width: 85%;
+  font-size: 30px;
+  background-color: rgb(209, 204, 204);
+}
+
+.calculator-containers{
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.btn{
+
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+
+  background-color: rgb(48, 46, 46);
+
+  color: white;
+
+  /* border-radius: 50%; */
+}
+
+.equaltobtn{
+
+  background-color: rgb(43, 43, 104);
+}
